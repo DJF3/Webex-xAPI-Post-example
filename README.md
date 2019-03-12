@@ -4,7 +4,7 @@ Example of a Macro running on a Cisco video endpoint that performs a POST action
 
 **Equipment**: Cisco Webex DX80
 
-**Firmware**: RoomOS 2019-02-22. The minimum CE firmware version is 9.6.1. That is when HTTP POSTs were [introduced](https://community.cisco.com/t5/collaboration-voice-and-video/ce9-6-x-in-room-control-and-macros-usb-input-devices-http-post/ba-p/3765081 "introduced").
+**Firmware**: RoomOS 2019-02-22. The minimum CE firmware version is 9.6.1 (when HTTP POSTs were [introduced](https://community.cisco.com/t5/collaboration-voice-and-video/ce9-6-x-in-room-control-and-macros-usb-input-devices-http-post/ba-p/3765081 "introduced")).
 
 **Connected**: The Cisco Webex video unit is registered to the Cisco Webex Teams cloud, but this should also work if it's registered on-premise.
 
@@ -44,11 +44,23 @@ NOTE: below the code editor you find the console. When you use â€œconsole.log(â€
 10. **Save code changes** and Editor changes and test your code. 
 
 
+<br>
+<br>
+<br>
+
+# Resources
+
+[Developere Portal](https://developer.cisco.com/site/roomdevices/ "Developere Portal")
+
+Learning lab: [Introduction to xAPI for Cisco Collaboration Devices learning lab](https://learninglabs.cisco.com/lab/collab-xapi-intro/step/1)
+
+Learning lab: [Creating custom In-Room Controls and Macros](https://learninglabs.cisco.com/lab/collab-xapi-controls/step/1)
+
+Learning lab: [Customizing Collaboration Devices from Code](https://learninglabs.cisco.com/lab/collab-xapi-branding/step/1)
 
 
 
-
-# ResultResult
+# Result
 
 ## "Office" Tab
 ![office-tab](images/image-result-1-office-tab.jpg)
@@ -60,7 +72,7 @@ NOTE: below the code editor you find the console. When you use â€œconsole.log(â€
 
 
 ## "Home" Tab
-Note that the home tab has more features that I have not documented. Check the xAPI documentation to see what is possible. 
+This is the home tab, shared to give you an idea of what you could technically do.
 
 ![office-tab](images/image-result-2-home-tab.jpg)
 
