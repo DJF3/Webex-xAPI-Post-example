@@ -12,6 +12,8 @@ Example of a Macro running on a Cisco video endpoint that performs a POST action
 
 **NOTE**: you can do the same on other Cisco video units with Touch 10 panels.
 
+<br>
+<br>
 
 # Flow
 1. Press button on DX80 (to switch on a lamp)
@@ -19,6 +21,8 @@ Example of a Macro running on a Cisco video endpoint that performs a POST action
 3. This code does an API call (HTTP POST) to my home automation system
 4. Home automation system executes requested action: lamp is ON!
 
+<br>
+<br>
 
 # Steps
 1. **Browse** to DX80 admin interface
@@ -60,7 +64,8 @@ Learning lab: [Creating custom In-Room Controls and Macros](https://learninglabs
 
 Learning lab: [Customizing Collaboration Devices from Code](https://learninglabs.cisco.com/lab/collab-xapi-branding/step/1)
 
-
+<br>
+<br>
 
 # Result
 
@@ -78,7 +83,8 @@ This is the home tab, shared to give you an idea of what you could technically d
 
 ![office-tab](images/image-result-2-home-tab.jpg)
 
-
+<br>
+<br>
 
 # Disclaimer
 This example is only a sample and is NOT guaranteed to be bug free and production quality. The sample macros are meant to:
