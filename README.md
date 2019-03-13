@@ -78,6 +78,18 @@ This is the home tab, shared to give you an idea of what you could technically d
 
 
 
+# Disclaimer
+This example is only a sample and is NOT guaranteed to be bug free and production quality. The sample macros are meant to:
+
+* Show how to use CE Macros.
+* Serve as a step by step example of building a macro using JavaScript and integration with the Codec XAPI
+* Provided as a guide for a developer to see how to initialize a macro and set up handlers for user and dialog updates.
+
+# Support Notice
+Support for the macros is provided on a "best effort" basis via Github. Like any custom deployment, it is the responsibility of the partner and/or customer to ensure that the customization works correctly and this includes ensuring that the macro is properly integrated into 3rd party applications.
+
+
+
 
 
 
