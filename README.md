@@ -52,6 +52,8 @@ NOTE: below the code editor you find the console. When you use â€œconsole.log(â€
 
 [Developere Portal](https://developer.cisco.com/site/roomdevices/ "Developere Portal")
 
+[Command Reference xAPI](https://www.cisco.com/c/en/us/support/collaboration-endpoints/telepresence-quick-set-series/products-command-reference-list.html "Command Reference xAPI")
+
 Learning lab: [Introduction to xAPI for Cisco Collaboration Devices learning lab](https://learninglabs.cisco.com/lab/collab-xapi-intro/step/1)
 
 Learning lab: [Creating custom In-Room Controls and Macros](https://learninglabs.cisco.com/lab/collab-xapi-controls/step/1)
